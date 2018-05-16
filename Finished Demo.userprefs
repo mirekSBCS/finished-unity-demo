@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\HUDmanager.cs" Line="101" Column="46" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PrizePickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" Line="13" Column="34" />
+      <File FileName="Assets\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PrizePickup_Tome.cs" Line="1" Column="1" />
+      <File FileName="Assets\Collectable.cs" Line="4" Column="1" />
+      <File FileName="Assets\HUDManager.cs" Line="9" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
